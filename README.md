@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/somersbmatthews/elixir-helper-ember.svg?branch=master)](https://travis-ci.com/somersbmatthews/elixir-helper-ember)
+
 # instacook-frontend
 
 This README outlines the details of collaborating on this Ember application.
